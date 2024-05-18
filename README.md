@@ -13,6 +13,6 @@ Comparing with other GitHub content hosting solutions, Appbnr provides:
 - Third party API integration
 
 ## Quick Links
-* Find GitDoc in [Appbnr Market](https://www.appbnr.com/market/gitdoc@dopsun]
+* Find GitDoc in [Appbnr Market](https://www.appbnr.com/market/gitdoc@dopsu)
 * Visit GitDoc [Demo](https://dopsun.appbnr.com/gitdoc)
 
